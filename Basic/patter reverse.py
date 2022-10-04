@@ -1,6 +1,3 @@
-n = 5
-k = 5
-for i in range(0,n+1):
-    for j in range(k-i,0,-1):
-        print(j,end=' ')
-    print()
+my_income = 100
+tax_rate = 0.1
+my_taxes = my_income * tax_rate

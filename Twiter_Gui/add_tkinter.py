@@ -2,6 +2,7 @@ from tkinter import *
 class MyWindow:
     
     def __init__(self, win):
+        
         self.lbl1=Label(win, text='First number')
         self.lbl2=Label(win, text='Second number')
         self.lbl3=Label(win, text='Result')

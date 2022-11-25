@@ -5,3 +5,4 @@ for i in range(1, 11, 1):
     # 2 *i (current number)
     product = n * i
     print(product)
+    #product

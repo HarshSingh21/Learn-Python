@@ -10,6 +10,7 @@ class MyWindow:
         self.t3=Entry()
         
         
+        
         self.btn1 = Button(win, text='Add')
         self.btn2=Button(win, text='Subtract')
         self.lbl1.place(x=100, y=50)

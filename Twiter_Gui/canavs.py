@@ -4,6 +4,7 @@ top = Tk()
   
 top.geometry("200x200")  
   
+  
 #creating a simple canvas  
 c = Canvas(top,bg = "pink",height = "300",width = 200)  
   
